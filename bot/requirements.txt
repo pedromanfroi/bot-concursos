@@ -1,0 +1,5 @@
+discord.py
+beautifulsoup4
+requests
+Flask
+python-dotenv

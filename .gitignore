@@ -1,0 +1,14 @@
+# Ignorar arquivos de ambiente
+.env
+
+# Ignorar o ambiente virtual
+mybotenv/
+
+# Ignorar caches Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar configurações do VS Code
+.vscode/
